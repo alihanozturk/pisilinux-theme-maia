@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=Pisi
+ColorScheme=Maia
 
 [kdeglobals][Icons]
-Theme=pisi
+Theme=maia
 
 [plasmarc][Theme]
-name=pisi
+name=maia
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
