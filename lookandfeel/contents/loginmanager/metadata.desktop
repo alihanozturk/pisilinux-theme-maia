@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=Maia
+Name[x-test]=xxMaiaxx
+Description=Maia Theme
+Description[x-test]=xxMaia Themexx
+Author=David Linares (Mcder3)
+Copyright=(c) 2014, David Edmundson, David Linares (Mcder3)
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.2.0
+Website=https://github.com/manjaro/artwork-maia
+Screenshot=maia.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=mcder3@gmail.com
+Theme-Id=maia
+Theme-API=2.0
