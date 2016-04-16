@@ -8,3 +8,5 @@ Contents
     Plasma theme
     Sddm theme, lock screen and splash screen based on Breeze.
     Maia wallpaper
+
+    https://raw.githubusercontent.com/alihanozturk/pisilinux-theme-maia/master/lookandfeel/contents/previews/preview.png
