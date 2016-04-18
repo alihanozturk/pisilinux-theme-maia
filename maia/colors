@@ -19,54 +19,54 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=65,65,65
-BackgroundNormal=41,52,47
+BackgroundNormal=41,47,52
 DecorationFocus=26,156,188
 DecorationHover=22,133,160
-ForegroundActive=174,211,168
+ForegroundActive=174,168,211
 ForegroundInactive=155,155,155
-ForegroundLink=52,219,152
+ForegroundLink=52,152,219
 ForegroundNegative=231,60,76
 ForegroundNeutral=230,34,126
 ForegroundNormal=247,247,247
 ForegroundPositive=46,113,204
-ForegroundVisited=91,112,44
+ForegroundVisited=91,44,112
 
 [Colors:Selection]
 BackgroundAlternate=26,156,188
 BackgroundNormal=22,133,160
 DecorationFocus=26,156,188
 DecorationHover=22,133,160
-ForegroundActive=102,153,51
+ForegroundActive=102,51,153
 ForegroundInactive=65,65,65
-ForegroundLink=52,94,73
+ForegroundLink=52,73,94
 ForegroundNegative=159,40,48
 ForegroundNeutral=180,0,66
 ForegroundNormal=247,247,247
 ForegroundPositive=25,61,112
-ForegroundVisited=91,112,44
+ForegroundVisited=91,44,112
 
 [Colors:Tooltip]
 BackgroundAlternate=35,35,35
-BackgroundNormal=41,52,47
+BackgroundNormal=41,47,52
 DecorationFocus=26,156,188
 DecorationHover=22,133,160
-ForegroundActive=174,211,168
+ForegroundActive=174,168,211
 ForegroundInactive=155,155,155
-ForegroundLink=52,219,152
+ForegroundLink=52,152,219
 ForegroundNegative=231,60,76
 ForegroundNeutral=230,34,126
 ForegroundNormal=247,247,247
 ForegroundPositive=46,113,204
-ForegroundVisited=91,112,44
+ForegroundVisited=91,44,112
 
 [Colors:View]
 BackgroundAlternate=65,65,65
-BackgroundNormal=41,52,47
-DecorationFocus=22,160,133
+BackgroundNormal=41,47,52
+DecorationFocus=22,133,160
 DecorationHover=26,156,188
-ForegroundActive=174,211,168
+ForegroundActive=174,168,211
 ForegroundInactive=155,155,155
-ForegroundLink=52,219,152
+ForegroundLink=52,152,219
 ForegroundNegative=231,60,76
 ForegroundNeutral=230,34,126
 ForegroundNormal=247,247,247
@@ -75,17 +75,17 @@ ForegroundVisited=91,112,44
 
 [Colors:Window]
 BackgroundAlternate=25,25,25
-BackgroundNormal=41,52,47
+BackgroundNormal=41,47,52
 DecorationFocus=26,156,188
 DecorationHover=22,133,160
-ForegroundActive=174,211,168
+ForegroundActive=174,168,211
 ForegroundInactive=155,155,155
-ForegroundLink=52,219,152
+ForegroundLink=52,152,219
 ForegroundNegative=231,60,76
 ForegroundNeutral=230,34,126
 ForegroundNormal=247,247,247
 ForegroundPositive=46,113,204
-ForegroundVisited=91,112,44
+ForegroundVisited=91,44,112
 
 [General]
 ColorScheme=Maia Dark
