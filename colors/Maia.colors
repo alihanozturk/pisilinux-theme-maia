@@ -88,8 +88,8 @@ ForegroundPositive=52,152,219
 ForegroundVisited=91,44,112
 
 [General]
-ColorScheme=Maia-Pisi
-Name=Maia-Pisi
+ColorScheme=Maia
+Name=Maia
 shadeSortColumn=true
 
 [KDE]
