@@ -8,7 +8,7 @@ IntensityAmount=0.10000000000000001
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-Color=112,111,110
+Color=112,110,111
 ColorAmount=-0.95000000000000007
 ColorEffect=0
 ContrastAmount=0.10000000000000001
