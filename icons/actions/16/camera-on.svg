@@ -13,7 +13,7 @@
    height="16"
    id="svg952"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="camera-on.svg">
   <defs
      id="defs954" />
@@ -30,10 +30,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -87,11 +87,12 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <circle
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#1abc9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#3daee9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path4171"
        cx="8"
        cy="1043.3622"
-       r="2.9999826" />
+       r="2.9999826"
+       d="m 10.999983,1043.3622 c 0,1.6568 -1.3431384,3 -2.999983,3 -1.6568446,0 -2.9999826,-1.3432 -2.9999826,-3 0,-1.6569 1.343138,-3 2.9999826,-3 1.6568446,0 2.999983,1.3431 2.999983,3 z" />
     <path
        style="fill:#182128;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 8 13 C 7.446 13 7 13.446 7 14 C 7 14.028366 7.0133319 14.052324 7.015625 14.080078 C 5.3941126 14.311178 4 15 4 15 L 4 16 L 12 16 L 12 15 C 12 15 10.605887 14.311178 8.984375 14.080078 C 8.9866681 14.052324 9 14.028366 9 14 C 9 13.446 8.554 13 8 13 z "
