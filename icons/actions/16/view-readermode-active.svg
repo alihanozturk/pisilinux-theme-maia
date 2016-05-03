@@ -13,7 +13,7 @@
    height="16"
    id="svg4183"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="view-readermode-active.svg">
   <defs
      id="defs4185" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="11.9529"
-     inkscape:cy="6.8084115"
+     inkscape:zoom="4"
+     inkscape:cx="-36.776277"
+     inkscape:cy="29.765072"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -110,7 +110,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssccssccsccsccsccccsscs" />
     <rect
-       style="opacity:1;fill:#43be80;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4172"
        width="7"
        height="7"

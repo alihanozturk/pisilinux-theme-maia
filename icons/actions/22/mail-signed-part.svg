@@ -13,7 +13,7 @@
    height="22"
    id="svg3869"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="mail-signed-part.svg">
   <defs
      id="defs3871" />
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="666"
-     inkscape:window-x="-2"
-     inkscape:window-y="25"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -158,7 +158,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="fill:#1abc9c;fill-opacity:1;stroke:none"
+       style="fill:#3daee9;fill-opacity:1;stroke:none"
        d="M 19 11 L 18.003906 11.994141 L 18 11.990234 L 13 16.988281 L 13.007812 16.996094 L 13.003906 18 L 13 18 L 13 18.990234 L 13 19 L 15 19 L 15.005859 18.994141 L 15.009766 18.990234 C 15.013766 18.990214 15.015531 18.992188 15.019531 18.992188 L 15.013672 18.986328 L 16 18 L 20 14.003906 L 19.294922 13.294922 L 14.304688 18.28125 L 13.710938 17.689453 L 18.703125 12.701172 L 19.294922 13.294922 L 20 13.998047 L 21 12.998047 L 19 11 z "
        transform="translate(326,534.3622)"
        id="rect4139" />

@@ -13,7 +13,7 @@
    height="22"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="system-switch-user.svg">
   <defs
      id="defs3762" />
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -111,7 +111,7 @@
      id="layer1"
      transform="translate(-553.72253,-583.11926)">
     <path
-       style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none"
        d="M 16.300781 3 L 13.007812 6.2929688 L 12.800781 6.5 L 13.007812 6.7070312 L 16.300781 10 L 17.007812 9.2929688 L 14.714844 7 L 19.007812 7 L 19.007812 6 L 14.714844 6 L 17.007812 3.7070312 L 16.300781 3 z M 8 6 C 6.338 6 5 7.338 5 9 C 5 10.662 6.338 12 8 12 C 9.662 12 11 10.662 11 9 C 11 7.338 9.662 6 8 6 z M 8 13 C 5.22998 13 3 15.22998 3 18 L 3 19 L 13 19 L 13 18 C 13 15.22998 10.77002 13 8 13 z M 8 14 C 10.21602 14 12 15.78398 12 18 L 4 18 C 4 15.78398 5.78398 14 8 14 z "
        transform="translate(553.72253,583.11926)"
        id="rect4109" />
