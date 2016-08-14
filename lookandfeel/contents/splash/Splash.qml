@@ -42,7 +42,7 @@ Image {
         width: parent.width
         height: units.gridUnit * 14
         anchors.centerIn: parent
-        color: "#292f34"
+        color: "#4C000000"
         Column {
             id: content
             y: units.gridUnit
@@ -51,7 +51,7 @@ Image {
                 anchors.horizontalCenter: parent.horizontalCenter
                 source: "images/pisi.svgz"
                 sourceSize.height: units.gridUnit * 8
-                sourceSize.width: sourceSize.height
+                sourceSize.width: units.gridUnit * 8
             }
             Item {
                 width: 1
@@ -60,7 +60,7 @@ Image {
             Rectangle {
                 id: progressBar
                 radius: height
-                color: "#292f34"
+                color: "#31363b"
                 height: Math.round(units.gridUnit/2)
                 width: height*32
                 Rectangle {
@@ -71,7 +71,7 @@ Image {
                         bottom: parent.bottom
                     }
                     width: (parent.width / 6) * (stage - 1)
-                    color: "#3daee9"
+                    color: "#ffffff"
                     Behavior on width {
                         PropertyAnimation {
                             duration: 250
