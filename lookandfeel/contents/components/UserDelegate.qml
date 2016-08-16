@@ -37,7 +37,7 @@ Item {
 
     height: faceSize + loginText.implicitHeight
 
-    opacity: isCurrent ? 1.0 : 0.618
+    opacity: isCurrent ? 0.9 : 0.6
 
     Behavior on opacity {
         NumberAnimation { duration: 250 }
@@ -63,7 +63,7 @@ Item {
             imagePath: "widgets/background"
 
             //width is set in alias at top
-            width: Math.round(faceSize * (isCurrent ? 1.0 : 0.8))
+            width: Math.round(faceSize * (isCurrent ? 0.9 : 0.7))
             height: width
 
             Behavior on width {
