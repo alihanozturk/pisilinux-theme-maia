@@ -59,7 +59,7 @@ PlasmaCore.ColorScope {
         height: 1
         color: PlasmaCore.ColorScope.textColor
         width: parent.width
-        opacity: 0.4
+        opacity: 0.2
         anchors {
             margins: units.largeSpacing
 
